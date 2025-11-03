@@ -1,0 +1,20 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+# Maven
+target/
+# Logs
+*.log
+# Temporary files
+*.tmp
+*.swp
+# OS-specific
+.DS_Store
+Thumbs.db
+# JGAP library folder (local jar)
+lib/
+# Java compiled classes
+*.class
+# Backup files
+*~
