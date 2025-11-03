@@ -104,7 +104,7 @@ Soluția optimă: **obiectele 3, 8, 9, 10** → volum = 30, valoare = 254 ✅
 
 ## Exercițiul 5 – Extensia problemei rucsacului (max. 5 obiecte / tip)
 
-### 🔧 Modificări implementate
+### Modificări implementate
 - Tipul genelor: `IntegerGene(conf, 0, 5)` în loc de `BooleanGene`.  
 - Funcția de fitness a fost ajustată pentru a ține cont de `count_i` (numărul de obiecte de tip i).  
 - Penalizare aplicată dacă `totalVolume > 30`.  
